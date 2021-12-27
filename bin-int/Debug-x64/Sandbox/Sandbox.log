@@ -1,0 +1,4 @@
+﻿  SandboxApp.cpp
+D:\StudyingVSCode\ChernoGameEngine\ChernoGameEngine\src\Hazel\EntryPoint.h(7,27): warning C4100: 'argv': unreferenced formal parameter
+D:\StudyingVSCode\ChernoGameEngine\ChernoGameEngine\src\Hazel\EntryPoint.h(7,14): warning C4100: 'argc': unreferenced formal parameter
+  Sandbox.vcxproj -> D:\StudyingVSCode\ChernoGameEngine\bin\Debug-x64\Sandbox\Sandbox.exe
